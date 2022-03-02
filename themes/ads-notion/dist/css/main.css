@@ -11118,6 +11118,13 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+@font-face {
+  font-family: "Whyte_InktrapBold";
+  src: url("../fonts/WhyteInktrap-Bold.eot");
+  src: local("Whyte Inktrap Bold"), local("WhyteInktrap-Bold"), url("../fonts/WhyteInktrap-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/WhyteInktrap-Bold.woff2") format("woff2"), url("../fonts/WhyteInktrap-Bold.woff") format("woff"), url("../fonts/WhyteInktrap-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
 html, body {
-  background-color: red;
+  background-color: #1a6aff;
 }

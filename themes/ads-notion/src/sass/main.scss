@@ -1,6 +1,12 @@
 
 @import "~bootstrap/scss/bootstrap";
 @import "~mq-scss/mq";
+
+
+//Variable
+@import './variable';
+//components
+@import './components/typograph';
 html, body{
-    background-color: red;
+    background-color: $bleu;
 }
