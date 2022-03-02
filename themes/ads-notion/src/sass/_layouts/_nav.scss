@@ -1,0 +1,22 @@
+.header__container{
+    padding: 10px;
+}
+.header__navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 27px;
+    border-radius: 7px;
+}
+.header__contact-btn{
+    text-align: right;
+}
+.header__navigation .menu {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 360px;
+    margin: auto;
+}

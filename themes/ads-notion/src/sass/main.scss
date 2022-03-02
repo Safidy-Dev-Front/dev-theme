@@ -2,11 +2,17 @@
 @import "~bootstrap/scss/bootstrap";
 @import "~mq-scss/mq";
 
+@import "./font";
 
 //Variable
 @import './variable';
 //components
 @import './components/typograph';
+@import './components/list';
+@import './components/button';
+//Layout
+@import './_layouts/nav';
+@import './_layouts/block_hero';
 html, body{
-    background-color: $bleu;
+    // background-color: $bleu;
 }

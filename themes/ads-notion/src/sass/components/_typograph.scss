@@ -182,10 +182,10 @@
     font-family: 'Whyte_Inktrap_Super1';
     src: url('../fonts/WhyteInktrap-Super_1.eot');
     src: local('Whyte Inktrap Super'), local('WhyteInktrap-Super'),
-        url('../fonts/WhyteInktrap-Super_1.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/WhyteInktrap-Super_1.woff2') format('woff2'),
-        url('../fonts/WhyteInktrap-Super_1.woff') format('woff'),
-        url('../fonts/WhyteInktrap-Super_1.ttf') format('truetype');
+        url('/wp-content/themes/ads-notion/dist/fonts/WhyteInktrap-Super_1.eot?#iefix') format('embedded-opentype'),
+        url('/wp-content/themes/ads-notion/dist/fonts/WhyteInktrap-Super_1.woff2') format('woff2'),
+        url('/wp-content/themes/ads-notion/dist/fonts/WhyteInktrap-Super_1.woff') format('woff'),
+        url('/wp-content/themes/ads-notion/dist/fonts/WhyteInktrap-Super_1.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -195,9 +195,9 @@
     src: url('../fonts/WhyteInktrap-HeavyItalic.eot');
     src: local('Whyte Inktrap Heavy Italic'), local('WhyteInktrap-HeavyItalic'),
         url('../fonts/WhyteInktrap-HeavyItalic.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/WhyteInktrap-HeavyItalic.woff2') format('woff2'),
+        url('../dist/fonts/WhyteInktrap-HeavyItalic.woff2') format('woff2'),
         url('../fonts/WhyteInktrap-HeavyItalic.woff') format('woff'),
-        url('../fonts/WhyteInktrap-HeavyItalic.ttf') format('truetype');
+        url('../ads-notion/src/fonts/WhyteInktrap-HeavyItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
 }
@@ -273,4 +273,32 @@
     font-weight: normal;
     font-style: normal;
 }
+$Whyte_InktrapBold : 'Whyte_InktrapBold', sans-serif;
+$Whyte_InktrapHeavyItalic: 'Whyte_InktrapHeavyItalic', sans-serif;
+$Whyte_InktrapRagular: 'Whyte_InktrapRagular', sans-serif;
 
+html, body {
+    font-family: $Whyte_InktrapRagular;
+    
+}
+h1 , .h1{
+   font-family: $Whyte_InktrapBold; 
+   font-size: 113px;
+   margin: 0;
+   line-height: 0.8;
+   color: $black;
+
+}
+.header__navigation{
+    font-family: $Whyte_InktrapBold;
+}
+.header__navigation .menu {
+    a{
+        color: $black;
+        text-decoration: none;
+        font-size: 14px;
+        &:hover{
+            text-decoration: none;
+        }
+    }
+}
