@@ -229,6 +229,14 @@ h4 {
     font-family: $Whyte_InktrapBold;
     margin: 0;
 }
+.dev__item-healding{
+    font-size: 35px;
+    font-family: $Whyte_bold;
+}
+.h5, h5{
+    font-size: 25px;
+    font-family: $Whyte_bold;
+}
 
 h2,
 .h2 {
@@ -261,4 +269,8 @@ h3 {
 .hero__furniture-block-item .hero__furniture-block-description {
     color: $gryOpacity;
     font-family: $Whyte_InktrapRagular;
+}
+.dev__list-description{
+    font-size: 18px;
+    color: $gryOpacity;
 }

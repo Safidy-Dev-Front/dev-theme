@@ -60,23 +60,29 @@
             <div class="dev__content">
                 <div class="dev__list">
                     <div class="dev__list-item item-1">
+                        <p class="dev__item-healding">
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit pariatur reiciendis temporibus debitis praesentium neque vero
+                </p>
                     </div>
-                    <div class="dev__list-item fake">
+                    <div class="dev__list-item item-2">
+                        <h5>Frontend Development</h5>
+                        <p class="dev__list-description">Implementation of graphic design and UI elements.</p>
                     </div>
-                    <div class="dev__list-item item-1">
+                    <div class="dev__list-item item-3">
+                        <h5>Headless Content Management</h5>
+                        <p class="dev__list-description">Implementation of graphic design and UI elements.</p>
                     </div>
-                    <div class="dev__list-item item-1">
+                    <div class="dev__list-item fake-item">
                     </div>
-                    <div class="dev__list-item item-1">
-                    <div class="dev__list-item item-1">
+                    <div class="dev__list-item item-4">
+                        <h5>Backend Development</h5>
+                        <p class="dev__list-description">Implementation of graphic design and UI elements.</p>
                     </div>
-                    <div class="dev__list-item item-1">
+                    <div class="dev__list-item fake-item">
                     </div>
-                    <div class="dev__list-item item-1">
-                    </div>
-                    <div class="dev__list-item item-1">
-                    </div>
-                    <div class="dev__list-item item-1">
+                    <div class="dev__list-item item-5">
+                        <h5>Testing and Automation</h5>
+                        <p class="dev__list-description">Implementation of graphic design and UI elements.</p>
                     </div>
                 </div>
             </div>

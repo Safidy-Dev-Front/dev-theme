@@ -11313,6 +11313,16 @@ h4 {
   margin: 0;
 }
 
+.dev__item-healding {
+  font-size: 35px;
+  font-family: "Whyte_bold", sans-serif;
+}
+
+.h5, h5 {
+  font-size: 25px;
+  font-family: "Whyte_bold", sans-serif;
+}
+
 h2,
 .h2 {
   font-family: "Whyte_bold", sans-serif;
@@ -11341,6 +11351,11 @@ h3 {
 .hero__furniture-block-item .hero__furniture-block-description {
   color: rgba(0, 0, 0, 0.5);
   font-family: "Whyte_InktrapRagular", sans-serif;
+}
+
+.dev__list-description {
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.5);
 }
 
 ul {
@@ -11506,6 +11521,10 @@ ul {
   z-index: 1;
 }
 
+.dev__content {
+  margin-top: 260px;
+}
+
 .dev__circle-outer,
 .dev__circle-inner {
   position: absolute;
@@ -11521,4 +11540,43 @@ ul {
   background-color: #ffe97a;
   transform: scale3d(0.5, 0.5, 5);
   transform-origin: center;
+}
+
+.dev__list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+}
+
+.dev__list-item {
+  display: block;
+  height: 377px;
+  padding: 23px;
+}
+.dev__list-item.item-1 {
+  grid-column: 1/span 2;
+}
+
+.dev__list-item {
+  background-color: #ffe97a;
+  border-radius: 5px;
+}
+
+.dev__list-item.item-1 {
+  background-color: transparent;
+}
+.dev__list-item.item-1 p {
+  width: 100%;
+  max-width: 405px;
+  line-height: 1em;
+}
+
+.dev__list-description {
+  margin-top: 20px;
+}
+
+.dev__list-item.fake-item {
+  background-color: #f7f7f7;
+  border-radius: 80px;
 }
