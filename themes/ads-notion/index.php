@@ -23,17 +23,18 @@
             </div>
         </div>
         <div class="hero__image-animation">
-            <svg xmlns="http://www.w3.org/2000/svg" class="image__hero-header" viewBox="0 0 570.24 541.2">
-                <defs>
-                <style>.cls-1{fill:#ffe87b;}.cls-2{fill:#53b685;}.cls-3{fill:#3864ae;}.cls-4{fill:#f5b5cd;}</style>
-                </defs>
-                <g id="Calque_2" data-name="Calque 2">
-                <g id="Calque_1-2" data-name="Calque 1">
-                <circle class="cls cls-1" cx="416.76" cy="153.48" r="153.48"/>
-                <path class="cls cls-2" d="M495.81,312.88a3.12,3.12,0,0,1,3.12,3.14C497.25,440.67,395.68,541.2,270.63,541.2S44,440.67,42.33,316a3.12,3.12,0,0,1,3.12-3.14h96.49a3.1,3.1,0,0,1,3.11,3,125.62,125.62,0,0,0,251.17,0,3.1,3.1,0,0,1,3.1-3Z"/>
-                <rect class="cls cls-3" x="127.29" y="77.98" width="111.32" height="111.32" rx="9.73" transform="matrix(0.83, 0.56, -0.56, 0.83, 106.74, -79.72)"/>
-                <rect class="cls cls-4" x="6.86" y="190.05" width="203.37" height="106.21" rx="9.62" transform="translate(51.01 -16.84) rotate(11.58)"/></g></g>
-            </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540.19 449.1">
+            <defs>
+                <style>.cls-1{fill:hsl(50deg 100% 74%);}.cls-2{fill:hsl(160deg 99% 43%);}.cls-3{fill:hsl(219deg 100% 55%);}.cls-4{fill:hsl(341deg 100% 86%);}</style>
+            </defs>
+            <g id="Calque_2" data-name="Calque 2"><g id="Calque_1-2" data-name="Calque 1">
+                <circle class="cls cls-1" cx="406.84" cy="133.36" r="133.36"/>
+                <path class="cls cls-2" d="M440.58,266.71a2.5,2.5,0,0,1,2.5,2.51C441.73,368.79,360.6,449.1,260.71,449.1s-181-80.31-182.37-179.88a2.49,2.49,0,0,1,2.49-2.51h77.08a2.47,2.47,0,0,1,2.48,2.4,100.35,100.35,0,0,0,200.64,0,2.47,2.47,0,0,1,2.48-2.4Z"/>
+                <rect class="cls cls-3" x="117.37" y="40.94" width="111.32" height="111.32" rx="2.83" transform="translate(84.2 -80.54) rotate(34.2)"/>
+                <rect class="cls cls-4" x="7.18" y="152.15" width="182.87" height="95.51" rx="3.01" transform="translate(42.13 -15.73) rotate(11.58)"/>
+                </g>
+            </g>
+        </svg>
         </div>
         <div class="hero_furniture-block">
             <div class="hero__furniture-block-item">

@@ -78,23 +78,21 @@ $(document).mousemove(function(e) {
             "transform": "translate(" + newX + "px," + (newY / 80) + "px)"
         });
     });
+    // $('.cls-1').each(function(i, el) {
+    //     var movement = (i + 1) * (xdiff * movementConstant);
+    //     var movementy = (i + 1) * (ydiff * movementConstant);
+    //     var newX = $(el).position().left + movement;
+    //     var newY = $(el).position().top + movementy;
+    //     var cssObj = {
+    //         'left': newX + 'px',
+    //         'top': newY + 'px'
+    //     };
 
-    $('.cls-1').each(function(i, el) {
-        var movement = (i + 1) * (xdiff * movementConstant);
-        var movementy = (i + 1) * (ydiff * movementConstant);
-        var newX = $(el).position().left + movement;
-        var newY = $(el).position().top + movementy;
-        var cssObj = {
-            'left': newX + 'px',
-            'top': newY + 'px'
-        };
+    //     // $(el).css('left', newX + 'px');
+    //     // $(el).css('top', newY + 'px');
+    //     $(el).css({
+    //         "transform": "translate(" + (newX - 390) + "px," + (newY * 0.1) + "px)"
 
-        // $(el).css('left', newX + 'px');
-        // $(el).css('top', newY + 'px');
-        $(el).css({
-            "transform": "translate(" + (newX / 100) + "px," + (newY * 0.1) + "px)"
-
-        });
-    });
-
+    //     });
+    // });
 });
