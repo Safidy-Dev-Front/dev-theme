@@ -11372,6 +11372,12 @@ ul {
   justify-content: space-around;
   padding: 20px 27px;
   border-radius: 7px;
+  position: fixed;
+  width: calc(100% - 20px);
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff;
+  z-index: 999;
 }
 
 .header__contact-btn {
@@ -11444,6 +11450,7 @@ ul {
 .hero__furniture-block-item {
   padding: 25px;
   display: flex;
+  margin-top: 50px;
 }
 .hero__furniture-block-item:before {
   content: "";
