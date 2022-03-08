@@ -14,7 +14,6 @@ final class Init
 			Base\Support::class
 		];
 	}
-
 	/**
 	 * Loop through the classes, initialize them, 
 	 * and call the register() method if it exists

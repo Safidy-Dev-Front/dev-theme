@@ -100,4 +100,177 @@
 
         </div>
     </section>
+
+    <section id="aws">
+        <div class="aws__container">
+            <div class="aws__header">
+                <h2 class="h2 text-center">Scale smartly.</h2>
+                <div class="aws__circle-outer"></div>
+            </div>
+            <div class="aws__content">
+                <div class="aws__list">
+                    <div class="aws__list-item item-1">
+                        <p class="aws__item-healding">
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit pariatur reiciendis temporibus debitis praesentium neque vero
+                </p>
+                    </div>
+                    <div class="aws__list-item item-2">
+                        <h5>Serverless</h5>
+                        <p class="aws__list-description">Cloud-native development.</p>
+                    </div>
+                    <div class="aws__list-item fake-item">
+                    </div>
+                    <div class="aws__list-item item-3">
+                        <h5>Appsync</h5>
+                        <p class="aws__list-description">Scalable APIs with GraphQL</p>
+                    </div>
+                    <div class="aws__list-item fake-item">
+                    </div>
+                    <div class="aws__list-item item-4">
+                        <h5>GraphQL</h5>
+                        <p class="aws__list-description">Data query and manipulation language for APIs.</p>
+                    </div>
+                    <div class="aws__list-item item-4">
+                        <h5>Stepfunctions</h5>
+                        <p class="aws__list-description">Low-code, visual workflow for distributed applications.</p>
+                    </div>
+                    <div class="aws__list-item item-4">
+                        <h5>IAM</h5>
+                        <p class="aws__list-description">Fine-grained Identity and Access Mangement across all AWS.</p>
+                    </div>
+                    <div class="aws__list-item item-4">
+                        <h5>EventBridge</h5>
+                        <p class="aws__list-description">Serverless, event-driven applications at scale.</p>
+                    </div>
+                    <div class="aws__list-item fake-item">
+                    </div>
+                    <div class="aws__list-item fake-item">
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <section id="product">
+        <div class="product__container">
+            <div class="product__header">
+                <h2 class="h2 text-center">Discover your north star.</h2>
+                <div class="product__circle-outer"></div>
+            </div>
+            <div class="product__content">
+                <div class="product__list">
+                    <div class="product__list-item item-1">
+                        <p class="product__item-healding">
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit pariatur reiciendis temporibus debitis praesentium neque vero
+                </p>
+                    </div>
+                    <div class="product__list-item item-2">
+                        <h5>Discovery</h5>
+                        <p class="product__list-description">Analyzing the target market, defining your product-market fit and gathering the project requirements and goals.</p>
+                    </div>
+                    <div class="product__list-item fake-item">
+                    </div>
+                    <div class="product__list-item item-3">
+                        <h5>Strategy</h5>
+                        <p class="aws__list-description">Outlining the goals and actions to reach your desired business objectives.</p>
+                    </div>
+                    <div class="product__list-item fake-item">
+                    </div>
+                    <div class="product__list-item fake-item">
+                    </div>
+                    <div class="product__list-item item-4">
+                        <h5>User Story Mapping</h5>
+                        <p class="product__list-description">Capturing the journey your customers take with the product including activities and tasks they perform with the system.</p>
+                    </div>   
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <section id='approach'>
+        <div class="approach-text-top">
+            <h5 class="h5">How we work</h5>
+        </div>
+        <div class="approach__container">
+            <div class="approach__wrapper">
+                <div class="approach__list-block">
+                    <div class="approach__item-block">
+                        <h3 class="approach__item-title">Identify the problem</h3>
+                        <p class="approach__item-description">
+                        We’ll talk about your products, ideas and create a space for us to understand your goals and for you to spar with us about the problems you’re trying to solve. From this foundation we will present suggestions on how we can be of service to bring your ideas to life.
+                        </p>
+                    </div>
+                    <div class="approach__item-block">
+                        <h3 class="approach__item-title">Define the process</h3>
+                        <p class="approach__item-description">
+                        We’ll talk about your products, ideas and create a space for us to understand your goals and for you to spar with us about the problems you’re trying to solve. From this foundation we will present suggestions on how we can be of service to bring your ideas to life.
+                        </p>
+                    </div>
+                    <div class="approach__item-block">
+                        <h3 class="approach__item-title">Kickoff</h3>
+                        <p class="approach__item-description">
+                        We’ll talk about your products, ideas and create a space for us to understand your goals and for you to spar with us about the problems you’re trying to solve. From this foundation we will present suggestions on how we can be of service to bring your ideas to life.
+                        </p>
+                    </div>
+                    <div class="approach__item-block">
+                        <h3 class="approach__item-title">Collaborate</h3>
+                        <p class="approach__item-description">
+                        We’ll talk about your products, ideas and create a space for us to understand your goals and for you to spar with us about the problems you’re trying to solve. From this foundation we will present suggestions on how we can be of service to bring your ideas to life.
+                        </p>
+                    </div>
+                    <div class="approach__item-block">
+                        <h3 class="approach__item-title">Iterate</h3>
+                        <p class="approach__item-description">
+                        We’ll talk about your products, ideas and create a space for us to understand your goals and for you to spar with us about the problems you’re trying to solve. From this foundation we will present suggestions on how we can be of service to bring your ideas to life.
+                        </p>
+                    </div>
+                </div>
+                <div class="approach__element-animation">
+                    <div class="approach__element-anim-number">
+                        <div class="approach__number-item">
+                            <div class="approach__number">
+                                01
+                            </div>
+                        </div>
+                        <div class="approach__number-item">
+                            <div class="approach__number">
+                                02
+                            </div>
+                        </div>
+                        <div class="approach__number-item">
+                            <div class="approach__number">
+                                03
+                            </div>
+                        </div>
+                        <div class="approach__number-item">
+                            <div class="approach__number">
+                                04
+                            </div>
+                        </div>
+                        <div class="approach__number-item">
+                            <div class="approach__number">
+                                05
+                            </div>
+                        </div>
+                    </div>
+                    <div class="approach__lottie-con">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id='cta'>
+        <div class='cta__container'>
+            <h1 class='h1'>
+            Let's build
+something
+together.
+            </h1>
+            <div class='cta__btn text-center mt-5'>
+                    <button class='btn btn-btn-primary '>Say hello</button>
+            </div>
+        </div>
+    </section>
+    
 <?php get_footer()?>
